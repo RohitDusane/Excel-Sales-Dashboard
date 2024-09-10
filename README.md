@@ -50,4 +50,4 @@ Use **Data Analysis Expressions (DAX)** to create calculated **KPI(s)** measures
 ## End
    
 Thank you for your interest and time. Feel free to modify and give your valuable suggestions!!!. \
-Connect with me on https://www.linkedin.com/
+Connect with me on https://www.linkedin.com/in/rohit-dusane
