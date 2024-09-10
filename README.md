@@ -21,14 +21,14 @@ The dataset can be found on [Mo Chen](https://www.youtube.com/@datawithmo) 's Yo
 
 ![Excel](https://img.icons8.com/color/256/microsoft-excel-2019.png)
 
-***Power Query*** **-** Utilizes Power Query to import, transform, and clean raw sales data (handling NULL values, remove duplicates, etc...)
+***Power Query*** **-** Utilized Power Query to import, transform, and clean raw sales data (handling NULL values, remove duplicates, etc...)
 
 ***Power Pivot*** **-**
-Employs Power Pivot for advanced data modeling and analysis. \
+Employed Power Pivot for advanced data modeling and analysis. \
 Using Filtering, Sorting and Excel Functions- Vlookup, IF.\
-Use **Data Analysis Expressions (DAX)** to create calculated KPI(s) measures.
+Use **Data Analysis Expressions (DAX)** to create calculated **KPI(s)** measures.
 
-***Visualizations*** **-** Creates interactive Pivot charts and graphs to visualize sales data and trends.
+***Visualizations*** **-** Created interactive Pivot charts and graphs to visualize sales data and trends.
 
 
 ## Key Insights
